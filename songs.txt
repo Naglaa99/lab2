@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-My name is Naglaa
+My name is Naglaa hamdi
 reading 
 writing
 iti branch
@@ -8,3 +8,4 @@ Add happysongs to my life
 add sad songs 
 >>>>>>> sadsongs
 Happysons smile
+life 
